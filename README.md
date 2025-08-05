@@ -8,12 +8,13 @@
 <img width="128px" src="https://file.labex.io/path/ZbzxjVKrvgFc.png">
 </div>
 
-CompTIA is the leading provider of vendor-neutral IT certifications. This Skill Tree offers a structured learning path for mastering CompTIA certification exams and IT fundamentals. It's perfect for beginners entering the IT field, providing systematic preparation for industry-recognized certifications. Hands-on labs and real-world scenarios help you develop practical skills for professional IT environments.
+Learn CompTIA with a structured learning path designed for mastering vendor-neutral IT certifications. This roadmap, featuring a series of CompTIA courses, is ideal for beginners entering the IT field. It provides systematic preparation for industry-recognized certifications and helps develop practical skills for professional IT environments through hands-on labs and real-world scenarios.
 
-|   Index | Name                                                                                                        | Difficulty   | Repo                                                                        | Practice                                                                    |
-|---------|-------------------------------------------------------------------------------------------------------------|--------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-|       1 | [CompTIA Linux+ Certification Training Labs](https://labex.io/courses/comptia-linux-plus-training-labs)     | Beginner     | [🔗 Repo](https://github.com/labex-labs/comptia-linux-plus-training-labs)   | [🚀 Start Lab](https://labex.io/courses/comptia-linux-plus-training-labs)   |
-|       2 | [CompTIA Network+ Certification Training Labs](https://labex.io/courses/comptia-network-plus-training-labs) | Beginner     | [🔗 Repo](https://github.com/labex-labs/comptia-network-plus-training-labs) | [🚀 Start Lab](https://labex.io/courses/comptia-network-plus-training-labs) |
+|   Index | Name                                                                                                          | Difficulty   | Repo                                                                         | Practice                                                                     |
+|---------|---------------------------------------------------------------------------------------------------------------|--------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+|       1 | [CompTIA Linux+ Certification Training Labs](https://labex.io/courses/comptia-linux-plus-training-labs)       | Beginner     | [🔗 Repo](https://github.com/labex-labs/comptia-linux-plus-training-labs)    | [🚀 Start Lab](https://labex.io/courses/comptia-linux-plus-training-labs)    |
+|       2 | [CompTIA Network+ Certification Training Labs](https://labex.io/courses/comptia-network-plus-training-labs)   | Beginner     | [🔗 Repo](https://github.com/labex-labs/comptia-network-plus-training-labs)  | [🚀 Start Lab](https://labex.io/courses/comptia-network-plus-training-labs)  |
+|       3 | [CompTIA Security+ Certification Training Labs](https://labex.io/courses/comptia-security-plus-training-labs) | Beginner     | [🔗 Repo](https://github.com/labex-labs/comptia-security-plus-training-labs) | [🚀 Start Lab](https://labex.io/courses/comptia-security-plus-training-labs) |
 
 ## More
 
