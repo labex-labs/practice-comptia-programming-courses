@@ -8,12 +8,13 @@
 <img width="128px" src="https://file.labex.io/path/ZbzxjVKrvgFc.png">
 </div>
 
-CompTIA 는 벤더 중립적인 IT 인증의 선도적인 제공업체입니다. 이 스킬 트리는 CompTIA 인증 시험과 IT 기초를 마스터하기 위한 체계적인 학습 경로를 제공합니다. IT 분야에 입문하는 초보자에게 완벽하며, 업계에서 인정받는 인증을 위한 체계적인 준비를 제공합니다. 실습 랩과 실제 시나리오를 통해 전문적인 IT 환경에서 필요한 실무 기술을 개발할 수 있습니다.
+벤더 중립적인 IT 자격증 마스터를 위해 설계된 체계적인 학습 경로를 통해 CompTIA 를 학습하세요. 일련의 CompTIA 강좌로 구성된 이 로드맵은 IT 분야에 입문하는 초보자에게 이상적입니다. 업계에서 인정하는 자격증을 위한 체계적인 준비를 제공하며, 실습 랩과 실제 시나리오를 통해 전문 IT 환경을 위한 실용적인 기술을 개발하는 데 도움을 줍니다.
 
-|   인덱스 | 이름                                                                                                     | 난이도   | Repo                                                                        | 연습                                                                           |
-|----------|----------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-|        1 | [CompTIA Linux+ 자격증 취득 훈련 실습](https://labex.io/ko/courses/comptia-linux-plus-training-labs)     | 초급     | [🔗 Repo](https://github.com/labex-labs/comptia-linux-plus-training-labs)   | [🚀 실습 시작](https://labex.io/ko/courses/comptia-linux-plus-training-labs)   |
-|        2 | [CompTIA Network+ 자격증 취득 훈련 실습](https://labex.io/ko/courses/comptia-network-plus-training-labs) | 초급     | [🔗 Repo](https://github.com/labex-labs/comptia-network-plus-training-labs) | [🚀 실습 시작](https://labex.io/ko/courses/comptia-network-plus-training-labs) |
+|   인덱스 | 이름                                                                                                       | 난이도   | Repo                                                                         | 연습                                                                            |
+|----------|------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+|        1 | [CompTIA Linux+ 자격증 취득 훈련 실습](https://labex.io/ko/courses/comptia-linux-plus-training-labs)       | 초급     | [🔗 Repo](https://github.com/labex-labs/comptia-linux-plus-training-labs)    | [🚀 실습 시작](https://labex.io/ko/courses/comptia-linux-plus-training-labs)    |
+|        2 | [CompTIA Network+ 자격증 취득 훈련 실습](https://labex.io/ko/courses/comptia-network-plus-training-labs)   | 초급     | [🔗 Repo](https://github.com/labex-labs/comptia-network-plus-training-labs)  | [🚀 실습 시작](https://labex.io/ko/courses/comptia-network-plus-training-labs)  |
+|        3 | [CompTIA Security+ 자격증 취득 훈련 실습](https://labex.io/ko/courses/comptia-security-plus-training-labs) | 초급     | [🔗 Repo](https://github.com/labex-labs/comptia-security-plus-training-labs) | [🚀 실습 시작](https://labex.io/ko/courses/comptia-security-plus-training-labs) |
 
 ## 더 보기
 
