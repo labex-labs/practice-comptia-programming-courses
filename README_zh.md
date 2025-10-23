@@ -12,9 +12,10 @@
 
 |   序号 | 名称                                                                                              | 难度   | Repo                                                                         | 练习                                                                           |
 |--------|---------------------------------------------------------------------------------------------------|--------|------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-|      1 | [CompTIA Linux+ 认证培训实验](https://labex.io/zh/courses/comptia-linux-plus-training-labs)       | 初级   | [🔗 Repo](https://github.com/labex-labs/comptia-linux-plus-training-labs)    | [🚀 开始实验](https://labex.io/zh/courses/comptia-linux-plus-training-labs)    |
-|      2 | [CompTIA Network+ 认证培训实验](https://labex.io/zh/courses/comptia-network-plus-training-labs)   | 初级   | [🔗 Repo](https://github.com/labex-labs/comptia-network-plus-training-labs)  | [🚀 开始实验](https://labex.io/zh/courses/comptia-network-plus-training-labs)  |
-|      3 | [CompTIA Security+ 认证培训实验](https://labex.io/zh/courses/comptia-security-plus-training-labs) | 初级   | [🔗 Repo](https://github.com/labex-labs/comptia-security-plus-training-labs) | [🚀 开始实验](https://labex.io/zh/courses/comptia-security-plus-training-labs) |
+|      1 | [CompTIA Linux+ 认证实战实验](https://labex.io/zh/courses/comptia-linux-plus-training-labs)       | 初级   | [🔗 Repo](https://github.com/labex-labs/comptia-linux-plus-training-labs)    | [🚀 开始实验](https://labex.io/zh/courses/comptia-linux-plus-training-labs)    |
+|      2 | [CompTIA A+ 认证实训实验](https://labex.io/zh/courses/comptia-a-plus-training-labs)               | 初级   | [🔗 Repo](https://github.com/labex-labs/comptia-a-plus-training-labs)        | [🚀 开始实验](https://labex.io/zh/courses/comptia-a-plus-training-labs)        |
+|      3 | [CompTIA Network+ 认证培训实验](https://labex.io/zh/courses/comptia-network-plus-training-labs)   | 初级   | [🔗 Repo](https://github.com/labex-labs/comptia-network-plus-training-labs)  | [🚀 开始实验](https://labex.io/zh/courses/comptia-network-plus-training-labs)  |
+|      4 | [CompTIA Security+ 认证培训实验](https://labex.io/zh/courses/comptia-security-plus-training-labs) | 初级   | [🔗 Repo](https://github.com/labex-labs/comptia-security-plus-training-labs) | [🚀 开始实验](https://labex.io/zh/courses/comptia-security-plus-training-labs) |
 
 ## 更多
 
